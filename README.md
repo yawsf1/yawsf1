@@ -13,4 +13,4 @@ Développeur web full-stack passionné par la création d'applications modernes.
 - [EduTrack](https://github.com/yawsf1/EduTrack) — Plateforme de gestion éducative en PHP
 
 ## Me contacter
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/votre-profil)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/votre-profil](https://www.linkedin.com/in/youssef-laayadi-40b302366/)
