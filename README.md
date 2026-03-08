@@ -1,6 +1,6 @@
-# Bonjour, je suis Yawsf 👋
+# Bonjour, je suis Youssef LAAYADI 👋
 
-Développeur web full-stack passionné par la création d'applications modernes.
+Développeur d’applications | Étudiant en 2ᵉ année – BTS Développement des Applications Informatiques
 
 ## Stack technique
 - **Backend** : Laravel, PHP
