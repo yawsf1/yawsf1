@@ -13,4 +13,4 @@ Développeur d’applications | Étudiant en 2ᵉ année – BTS Développement 
 - [EduTrack](https://github.com/yawsf1/EduTrack) — Plateforme de gestion éducative en PHP
 
 ## Me contacter
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)]([[https://linkedin.com/in/votre-profil](https://www.linkedin.com/in/youssef-laayadi-40b302366/)](https://www.linkedin.com/in/youssef-laayadi-40b302366/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/youssef-laayadi-40b302366/)
