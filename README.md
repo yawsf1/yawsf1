@@ -5,7 +5,7 @@ Développeur d’applications | Étudiant en 2ᵉ année – BTS Développement 
 ## Stack technique
 - **Backend** : Laravel, PHP, Spring Boot
 - **Frontend** : Vue.js, Inertia.js, HTML/CSS/JS
-- **Base de données** : MySQL, Redis
+- **Base de données** : MySQL, PosgreSQL, Redis
 - **Outils** : Git, Vite, XAMPP
 
 ## Projets récents
