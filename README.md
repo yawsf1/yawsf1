@@ -1,6 +1,6 @@
 # Hello, I'm Youssef LAAYADI 👋
 
-Application Developer | 2nd Year Student – BTS in Application Development
+Aspiring Backend Engineer | Java & Spring Boot  | 2nd Year IT Student
 
 ## Technical Stack
 - **Backend** : Laravel, PHP, Spring Boot
