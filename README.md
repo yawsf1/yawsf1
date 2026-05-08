@@ -1,16 +1,16 @@
-# Bonjour, je suis Youssef LAAYADI 👋
+# Hello, I'm Youssef LAAYADI 👋
 
-Développeur d’applications | Étudiant en 2ᵉ année – BTS Développement des Applications Informatiques
+Application Developer | 2nd Year Student – BTS in Application Development
 
-## Stack technique
+## Technical Stack
 - **Backend** : Laravel, PHP, Spring Boot
 - **Frontend** : Vue.js, Inertia.js, HTML/CSS/JS
-- **Base de données** : MySQL, PostgreSQL, Redis
-- **Outils** : Git, Vite, XAMPP
+- **Database** : MySQL, PostgreSQL, Redis
+- **Tools** : Git, Vite, XAMPP
 
-## Projets récents
-- [shortRL](https://github.com/yawsf1/Url-Shortener) — Raccourcisseur d'URLs avec Redis, Laravel & Vue
-- [EduTrack](https://github.com/yawsf1/EduTrack) — Plateforme de gestion éducative en PHP
+## Recent Projects
+- [shortRL](https://github.com/yawsf1/Url-Shortener) — URL shortener built with Redis, Laravel & Vue
+- [EduTrack](https://github.com/yawsf1/EduTrack) — Educational management platform built with PHP
 
-## Me contacter
+## Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/youssef-laayadi-40b302366/)
