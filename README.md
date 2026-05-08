@@ -9,6 +9,7 @@ Aspiring Backend Engineer | Java & Spring Boot  | 2nd Year IT Student
 - **Tools** : Git, Vite, XAMPP
 
 ## Recent Projects
+- [Book Borrowing System](https://github.com/yawsf1/Library-Borrowing-rating-System-Spring-boot-) - Book borrowing System built with Spring Boot, PostgreSQL
 - [shortRL](https://github.com/yawsf1/Url-Shortener) — URL shortener built with Redis, Laravel & Vue
 - [EduTrack](https://github.com/yawsf1/EduTrack) — Educational management platform built with PHP
 
