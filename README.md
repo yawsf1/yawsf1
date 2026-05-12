@@ -1,4 +1,4 @@
-# Hello, I'm Youssef LAAYADI 👋
+# Hi, I'm Youssef LAAYADI 👋
 
 Aspiring Backend Engineer | Java & Spring Boot  | 2nd Year IT Student
 
