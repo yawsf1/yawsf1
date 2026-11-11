@@ -17,11 +17,11 @@ I'm passionate about building scalable, secure, and maintainable applications, w
 
 ## Featured Projects
 
-- **Parallax SaaS** — A SaaS platform designed to help agencies and teams manage project scope, client requests, and collaboration. Built with Laravel, Vue.js, PostgreSQL, Redis, and Docker.
-- **[Distributed Systems — Microservices](https://github.com/yawsf1/Tp2-DistributedSystems)** — Spring Boot microservices demonstrating distributed architecture and inter-service communication.
-- **[Book Borrowing System](https://github.com/yawsf1/Library-Borrowing-rating-System-Spring-boot-)** — Library management system built with Spring Boot and PostgreSQL.
-- **[shortRL](https://github.com/yawsf1/Url-Shortener)** — URL shortener built with Laravel, Vue.js, and Redis.
-- **[EduTrack](https://github.com/yawsf1/EduTrack)** — Educational management platform built with PHP.
+- **Parallax SaaS** : A SaaS platform designed to help agencies and teams manage project scope, client requests, and collaboration. Built with Laravel, Vue.js, PostgreSQL, Redis, and Docker.
+- **[Distributed Systems — Microservices](https://github.com/yawsf1/Tp2-DistributedSystems)** : Spring Boot microservices demonstrating distributed architecture and inter-service communication.
+- **[Book Borrowing System](https://github.com/yawsf1/Library-Borrowing-rating-System-Spring-boot-)** : Library management system built with Spring Boot and PostgreSQL.
+- **[shortRL](https://github.com/yawsf1/Url-Shortener)** : URL shortener built with Laravel, Vue.js, and Redis.
+- **[EduTrack](https://github.com/yawsf1/EduTrack)** : Educational management platform built with PHP.
 
 ## Current Focus
 
