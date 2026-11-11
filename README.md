@@ -13,5 +13,5 @@ Aspiring Backend Engineer | Java & Spring Boot  | 2nd Year IT Student
 - [shortRL](https://github.com/yawsf1/Url-Shortener) — URL shortener built with Redis, Laravel & Vue
 - [EduTrack](https://github.com/yawsf1/EduTrack) — Educational management platform built with PHP
 
-## Contact Me
+## Contact Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/youssef-laayadi-40b302366/)
